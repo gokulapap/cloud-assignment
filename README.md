@@ -1,5 +1,5 @@
 # cloud-assignment
-Hadoop and concurrent programming
+Hadoop and concurrent programming and REST API
 
 # contributors
 
